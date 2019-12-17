@@ -1,0 +1,13 @@
+text,label
+containsA letterA A, A
+containsB letterB B, B
+containsC letterC C, C
+containsA letterA A, A
+containsB letterB B, B
+containsC letterC C, C
+containsA letterA A, A
+containsB letterB B, B
+containsC letterC C, C
+containsA letterA A, A
+containsB letterB B, B
+containsC letterC C, C
