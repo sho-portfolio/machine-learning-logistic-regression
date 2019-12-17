@@ -1,0 +1,22 @@
+#Author:  Sho Munshi
+#Desc:    Pass in generic training data to train model to              predict the category labels 
+#Date:    2019-09-09
+#Thanks to:
+  #https://www.kaggle.com/jacklinggu/keras-mlp-cnn-test-for-text-classification/data
+  #https://github.com/keras-team/keras/tree/master/keras
+  #https://stackoverflow.com/questions/42081257/keras-binary-crossentropy-vs-categorical-crossentropy-performance
+  #https://github.com/keras-team/keras/blob/master/keras/metrics.py
+  #https://machinelearningmastery.com/custom-metrics-deep-learning-keras-python/
+  #https://machinelearningmastery.com/what-are-word-embeddings/
+  #https://github.com/scikit-learn-contrib/categorical-encoding/issues/26
+#############################################################
+
+
+#intersting things to look at later
+#https://github.com/keras-team/keras/issues/7985
+#https://machinelearningmastery.com/prepare-text-data-deep-learning-keras/
+#https://www.pyimagesearch.com/2019/02/04/keras-multiple-inputs-and-mixed-data/
+
+This is my problem but no answer... (2 inputs 1 output)
+https://datascience.stackexchange.com/questions/38280/keras-multiple-text-features-input-and-single-text-label-output-classification
+##?? https://datascience.stackexchange.com/questions/17024/rnns-with-multiple-features
