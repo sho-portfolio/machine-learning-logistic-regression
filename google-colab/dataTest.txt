@@ -1,0 +1,13 @@
+text
+containsA
+containsC
+containsB
+containsB
+containsA
+A
+B
+letterA
+cat
+dog
+insA
+insB
